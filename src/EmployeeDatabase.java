@@ -29,6 +29,7 @@ public class EmployeeDatabase {
 
     public void fireEmployee(){
 
+
     }
 
     public void getEmployee(){
